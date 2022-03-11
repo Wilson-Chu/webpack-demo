@@ -1,4 +1,4 @@
-/* import _ from 'lodash';
+import _ from 'lodash';
 
 function component() {
     const element = document.createElement('div');
@@ -9,8 +9,9 @@ function component() {
     return element;
 }
 
-document.body.appendChild(component()); */
+document.body.appendChild(component());
 
+/* The Odin Project example
 // import your function
 import myName from './myName';
 
@@ -23,3 +24,5 @@ function component() {
 }
 
 document.body.appendChild(component());
+
+*/
